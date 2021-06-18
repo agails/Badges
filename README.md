@@ -1,5 +1,5 @@
 # Badges
-![42](https://img.shields.io/badge/42-282C34?&message=42&logo=42&logoColor=FFFFFF)
+![42](https://img.shields.io/badge/42-282C34?style=plastic&message=42&logo=42&logoColor=FFFFFF)
 ![.NET](https://img.shields.io/badge/.NET-282C34?&message=.NET&logo=.NET&logoColor=512BD4)
 ![1001Tracklists](https://img.shields.io/badge/1001Tracklists-282C34?&message=1001Tracklists&logo=1001Tracklists&logoColor=222222)
 ![1Password](https://img.shields.io/badge/1Password-282C34?&message=1Password&logo=1Password&logoColor=0094F5)
